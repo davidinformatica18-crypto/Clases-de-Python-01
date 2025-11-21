@@ -1,0 +1,23 @@
+# PROGRAMA DE BIENVENIDA
+
+#función llamada bienvenida(nombre)
+
+def bienvenida (nombre):
+
+# Imprime el mensaje usando f-string:
+
+ print (f"Hola, {nombre}, bienvenido al curso de Python! ")
+
+# El condicional IF se asegura de ejecutar el bloque 
+
+if __name__=="__main__":
+
+# Pide el nombre al usuario con input() 
+
+
+            usuario = input("introduce nombre:")
+
+# Guarda el nombre en la variable usuario. 
+# Llama a la función bienvenida(usuario) Muestra el mensaje.
+
+bienvenida (usuario)
