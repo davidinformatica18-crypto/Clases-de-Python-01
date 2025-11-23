@@ -1,6 +1,21 @@
+# Ignorar entornos virtuales
 venv/
 venv311/
 venv314/
+
+# Ignorar configuración de VSCode
 .vscode/
+
+# Ignorar binarios y cachés de Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Ignorar carpetas temporales
+*.tmp
+*.log
+
+# Ignorar archivos del sistema
+Thumbs.db
+.DS_Store
