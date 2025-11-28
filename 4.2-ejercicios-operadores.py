@@ -37,7 +37,7 @@ def edad_mayor_60(edad):
     #A partir del parámetro edad retorna si esta es mayor de 60
     return edad > 60
 
-# py -3.11 -m venv venv311- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 
 
 if __name__ == "__main__":

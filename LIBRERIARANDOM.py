@@ -21,7 +21,7 @@ num3 = random.randint(1, 100)
 print("Los 3 números aleatorios son:", num1, num2, num3)
 
 # Calcular el promedio
-promedio = (num1 + num2 + num3) / 3
+promedio = (num1 + num2 + num3) / 3 
 
 print("El promedio de los tres números es:", promedio)
 
